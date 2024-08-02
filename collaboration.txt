@@ -1,2 +1,6 @@
 This is George Futekov project.
+<<<<<<< HEAD
 Mohammed is making a change, can you see that? 
+=======
+This is Lance Bryan Project
+>>>>>>> b23e2c77dcfa01b4678574f689158f46eb8a5355
